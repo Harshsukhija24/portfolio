@@ -36,7 +36,7 @@ const Intro = () => {
         {/* Image Section */}
         <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center">
           <img
-            src="photo.jpg"
+            src="photo.jpeg"
             alt="Profile"
             className="w-64 h-64 rounded-full object-cover shadow-lg"
           />
